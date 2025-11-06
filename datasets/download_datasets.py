@@ -14,8 +14,7 @@ https://worksheets.codalab.org/worksheets/0x62eefc3e64e04430a1a24785a9293fff
 
 
 files = [
-    "https://storageclwsprod1.blob.core.windows.net/bundles/0x3782ee0e5ed044d7a7e70d12553baf12/contents.gz?se=2025-11-06T17%3A40%3A36Z&sp=rt&sv=2019-12-12&sr=b&rscd=inline%3B%20filename%3D%22train-v2.0.json%22&rsce=gzip&rsct=application/json&sig=0uXjPXQNw4drqg9aZz6HPwNqL2PWyS21SQy6oFyI2QM%3D",
-    "https://storageclwsprod1.blob.core.windows.net/bundles/0xb30d937a18574073903bb38b382aab03/contents.gz?se=2025-11-06T17%3A40%3A58Z&sp=rt&sv=2019-12-12&sr=b&rscd=inline%3B%20filename%3D%22dev-v2.0.json%22&rsce=gzip&rsct=application/json&sig=MX2qHDYMZDl2/iQUxNVUvEK%2BKHKEOBX79F%2BrAauu1So%3D",
+    "example_url.com"
 ]
 
 def download(files):
